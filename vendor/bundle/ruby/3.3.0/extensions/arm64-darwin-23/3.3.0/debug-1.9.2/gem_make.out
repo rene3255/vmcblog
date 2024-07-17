@@ -1,0 +1,19 @@
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/Users/renesilva/.asdf/installs/ruby/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-harjnr sitelibdir\=./.gem.20240716-59304-harjnr clean
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-harjnr sitelibdir\=./.gem.20240716-59304-harjnr
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-harjnr sitelibdir\=./.gem.20240716-59304-harjnr install
+/opt/homebrew/bin/ginstall -c -m 0755 debug.bundle ./.gem.20240716-59304-harjnr/debug
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-harjnr sitelibdir\=./.gem.20240716-59304-harjnr clean

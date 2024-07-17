@@ -1,0 +1,18 @@
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/renesilva/.asdf/installs/ruby/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-qazah4 sitelibdir\=./.gem.20240716-59304-qazah4 clean
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-qazah4 sitelibdir\=./.gem.20240716-59304-qazah4
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-qazah4 sitelibdir\=./.gem.20240716-59304-qazah4 install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20240716-59304-qazah4
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-qazah4 sitelibdir\=./.gem.20240716-59304-qazah4 clean

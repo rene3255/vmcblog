@@ -1,0 +1,18 @@
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/renesilva/.asdf/installs/ruby/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-pgibcz sitelibdir\=./.gem.20240716-59304-pgibcz clean
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-pgibcz sitelibdir\=./.gem.20240716-59304-pgibcz
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-pgibcz sitelibdir\=./.gem.20240716-59304-pgibcz install
+/opt/homebrew/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20240716-59304-pgibcz/skiptrace/internal
+
+current directory: /Users/renesilva/Documents/dev/RoR/reneblog/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240716-59304-pgibcz sitelibdir\=./.gem.20240716-59304-pgibcz clean
