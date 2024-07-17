@@ -1,0 +1,7 @@
+<h1>Posts#make</h1>
+<p>Find me in app/views/posts/make.html.erb</p>
+<%= Post.all.each  do |item| %>
+  <h2><%= item.title %></h2> 
+  <p><%= item.body %></p> 
+  <p><%= item.id %></p> 
+<% end %>

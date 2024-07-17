@@ -1,0 +1,11 @@
+<h1>Hello#index</h1>
+<p>Find me in app/views/hello/index.html.erb</p>
+<h2>Hi there!</h2>
+<% 1.upto(100) do |i| %>
+  <% if i % 2 == 1 %>
+    <p>Odd</p>
+  <% else %>
+    <p>Even</p>
+  <% end if %>  
+  <h3><%= i %></h3>
+<% end %>
